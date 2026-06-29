@@ -1,0 +1,134 @@
+canonical_identifier: bkk:krp/KR3ej009/jc/v1
+canonical_location: https://kanripo.org/bkk/KR3ej009/jc/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 嬰兒論
+  identifiers:
+    krp: KR3ej009
+  tags:
+    kr-categories: KR3ej
+    tls-dates: dat04210
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ej009.xml
+  edition:
+    short: jc
+assets:
+  parts:
+  - {seq: 0, filename: KR3ej009_000-jc.yaml, hash: 'sha256:cc7332412fb5bb2c3589dd38cc83a16c469ab585c2f12d8c88bc6974ca687c3e'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3ej009_000-jc.markers.yaml, hash: 'sha256:6b7d3228fc71c1395d224a67cad2361812ff06802a587e13c0973c55985a8d2f'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3ej009_jc_000-d2.h1s1
+    span:
+    - front
+    - 0
+    - 409
+  label: 序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej009_jc_000-d3.h1s1
+    span:
+    - body
+    - 0
+    - 2090
+  label: 辨初生脈證並治第一
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej009_jc_000-d4.h1s1
+    span:
+    - body
+    - 2090
+    - 7543
+  label: 辨寒熱脈證並治第二
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej009_jc_000-d5.h1s1
+    span:
+    - body
+    - 7543
+    - 10399
+  label: 辨發驚脈證並治第三
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej009_jc_000-d6.h1s1
+    span:
+    - body
+    - 10399
+    - 15740
+  label: 辨瘡疹脈症並治第四
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej009_jc_000-d7.h1s1
+    span:
+    - body
+    - 15740
+    - 18449
+  label: 辨疳病脈證並治第五
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej009_jc_000-d8.h1s1
+    span:
+    - body
+    - 18449
+    - 24104
+  label: 辨上焦病脈證並治第六
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej009_jc_000-d9.h1s1
+    span:
+    - body
+    - 24104
+    - 25560
+  label: 辨中焦病脈證並治第七
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej009_jc_000-d10.h1s1
+    span:
+    - body
+    - 25560
+    - 32367
+  label: 辨下焦病脈證並治第八
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej009_jc_000-d11.h1s1
+    span:
+    - body
+    - 32367
+    - 33334
+  label: 附錄
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej009_jc_000-d11d2
+    span:
+    - body
+    - 32369
+    - 33334
+  label: 護養
+  type: section
+  level: 2
+hash: sha256:2f0189982d34682364f0f2aa0a514bfd8fbf80963c0ebb174b522e7293aa6f51
