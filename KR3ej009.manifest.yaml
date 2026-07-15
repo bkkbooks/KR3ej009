@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3ej009/v1
 canonical_location: https://kanripo.org/bkk/KR3ej009/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 嬰兒論
   identifiers:
@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3ej009_000.yaml, hash: 'sha256:cc7332412fb5bb2c3589dd38cc83a16c469ab585c2f12d8c88bc6974ca687c3e'}
+  - {seq: 0, filename: KR3ej009_000.yaml, hash: 'sha256:a036e28a2b843a1223408a4867f5c26bf64d777f700d295641e02bff552e633b'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ej009_000.markers.yaml, hash: 'sha256:0fc320b29bf58c43febc31d9cea761f74607ef8bbc693888e47663cd99706088'}
+  - {seq: 0, role: markers, filename: assets/KR3ej009_000.markers.yaml, hash: 'sha256:9222f6700c83b8b0a841a724bdfa98c449dea51875e16500b99f5961040fea60'}
 table_of_contents:
 - ref:
     seq: 0
@@ -131,4 +131,7 @@ table_of_contents:
   label: 護養
   type: section
   level: 2
-hash: sha256:afec8eaa5ef022dc84fb3c43b2408d36d166d43b9815c5fe0cc8fcad10b02647
+hash: sha256:15aad543057c8bad24334347c65b24bf13868a402c9a89e340ec597d9d8946a0
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
